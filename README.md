@@ -1,1 +1,1 @@
-# javase-samples
+# Java SE samples
